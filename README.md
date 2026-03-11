@@ -11,7 +11,7 @@ This project demonstrates the **complete machine learning workflow** — from da
 
 Access the deployed application here:
 
-🔗 https://mobile-price-prediction-app-02.streamlit.app/
+🔗 [https://mobile-price-prediction-app-02.streamlit.app/](https://mobile-price-02.streamlit.app/)
 
 ---
 
